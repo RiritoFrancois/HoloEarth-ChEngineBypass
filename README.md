@@ -1,4 +1,4 @@
 > [!WARNING]
-> **V1 IT MAY BE NOT WORKED BECAUSE THIS GAME IS CHECKING MD5 HASH OF THIS DLL LIBRARY OR JUST FILE DLL LIBRARY!!! SOON I WILL BE RELEASE ANOTHER VERSION OF THIS BYPASS!!! THANKS!!!**
+> **I'M CREATING THIS BYPASS ONLY FOR EDUCATIONAL PURPOSAL!!! SO ENJOY TO USE THIS!!!**
 # HoloEarth-ChEngineBypass
-HoloEarth-ChEngineBypass by RiritoNinigaya(Just Bypassing Some Detection of Cht Engine)
+This Is My First Bypass Detection of EngineGame... So Enjoy to use this Bypass!!!
