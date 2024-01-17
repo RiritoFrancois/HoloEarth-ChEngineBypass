@@ -23,7 +23,7 @@ def Main():
         time.sleep(5)
         sys.exit(2039)
 if __name__ == "__main__":
-    print("This is My First Bypass To Preventing Showing Japanese Message Box in Game HoloEarth... \nMade By DarknessSoulOfficial!!!")
+    print("This is My First Bypass To Preventing Showing Japanese Message Box in Game HoloEarth... \nMade By RiritoFrancois!!!")
     while True:
         Main()
         time.sleep(3)
